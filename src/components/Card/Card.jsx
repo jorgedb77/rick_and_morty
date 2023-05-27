@@ -10,7 +10,7 @@ const Card = ({
   image,
   onClose,
 }) => {
-  //aqui hago destructuring de las props
+  //aqui hago destructuring de las propss
 
   return (
     <div className={style.container}>
